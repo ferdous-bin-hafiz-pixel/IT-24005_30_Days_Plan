@@ -56,3 +56,5 @@ public class HarshadNumber {
 
 
 Task#2:https://leetcode.com/problems/harshad-number/submissions/1996318171/
+
+Task#3:https://www.spoj.com/status/ns=35729881
