@@ -1,3 +1,6 @@
+Task#1:
+
+
 import java.util.Scanner;
 
 
@@ -50,3 +53,6 @@ public class HarshadNumber {
 
 }
 
+
+
+Task#2:https://leetcode.com/problems/harshad-number/submissions/1996318171/
